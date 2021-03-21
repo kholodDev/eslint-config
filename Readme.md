@@ -51,7 +51,7 @@ $ npm i -D eslint babel-eslint typescript @typescript-eslint/parser @typescript-
 
 ```json
 {
-    "extends": ["eslint-config"]
+    "extends": ["./node_modules/custom-eslint-config"]
 }
 ```
 
